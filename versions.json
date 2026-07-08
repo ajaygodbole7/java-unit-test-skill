@@ -1,0 +1,11 @@
+{
+  "_comment": "Assumed tool versions for this skill's examples. These are defaults, not requirements — align them with the versions your project actually pins, then adjust the guidance if an API differs. Update this file first when bumping any version.",
+  "java": "17",
+  "junit": "5.11.x",
+  "assertj": "3.27.x",
+  "mockito": "5.x",
+  "jacoco": "0.8.x",
+  "pitest": "1.15.x",
+  "awaitility": "4.x",
+  "archunit": "1.x"
+}

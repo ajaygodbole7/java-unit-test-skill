@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Claude Code local settings (not part of the skill)
+.claude/
+
+# Editors / IDEs
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Java build output (none is committed with this skill, but guard against it)
+target/
+build/
+*.class
